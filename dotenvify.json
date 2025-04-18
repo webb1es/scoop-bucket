@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/webb1es/dotenvify/releases/download/v0.1.0/dotenvify_0.1.0_windows_amd64.zip",
+            "bin": [
+                "dotenvify.exe"
+            ],
+            "hash": "089c2a29f4699d63a43cd97499b9d605ec12f2a946d24e6d2a1c2c698a1cfd44"
+        }
+    },
+    "homepage": "https://github.com/webb1es/dotenvify",
+    "license": "MIT",
+    "description": "Convert key-value pairs to environment variables"
+}
