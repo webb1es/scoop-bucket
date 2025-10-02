@@ -1,12 +1,12 @@
 {
-    "version": "0.2.3",
+    "version": "0.2.14",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/webb1es/dotenvify/releases/download/v0.2.3/dotenvify_0.2.3_windows_amd64.zip",
+            "url": "https://github.com/webb1es/dotenvify/releases/download/v0.2.14/dotenvify_0.2.14_windows_amd64.zip",
             "bin": [
                 "dotenvify.exe"
             ],
-            "hash": "0665e0f95453f9bba27457b8c1f7236a59426744b8d08dfa4da952d9401aaa94"
+            "hash": "ebf6166d4dc00884e2378897b25c8eb68a0a5deae2170aaeff0533d203278eb8"
         }
     },
     "homepage": "https://github.com/webb1es/dotenvify",
